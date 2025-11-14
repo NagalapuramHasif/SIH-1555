@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 14-11-2025
-## Register Number: 212223100031
-## Name: MANGARI DEERAJ
+## Register Number: 212223100036
+## Name: NAGALAPURAM HASIF
 ## Problem Title
 SIH 1555: Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
 ## Problem Description
